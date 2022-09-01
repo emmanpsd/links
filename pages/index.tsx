@@ -29,13 +29,13 @@ const Home: NextPage = () => {
           <p>I’m a self taught fullstack web developer from Chicago who builds modern web/mobile applications with React.js and websites with WordPress.</p>
         </div>
 
-        <button className={styles.button} style={{ background: 'rgba(0, 114, 177, 0.85' }}><img src="" /><a href="https://www.linkedin.com/in/emmanuel-donelson/">LinkedIn Resume </a></button>
+        <button className={styles.button} style={{ background: 'rgba(0, 114, 177, 0.85' }}><a href="https://www.linkedin.com/in/emmanuel-donelson/">LinkedIn Resume </a></button>
 
-        <button className={styles.button} style={{ background: 'rgba(234, 76, 137, 0.85)' }}><img src="" /><a href="https://dribbble.com/groovyemman">Dribbble Portfolio</a></button>
-        <button className={styles.button} style={{ background: 'rgba(43, 49, 55, 0.85)' }}><img src="" /><a href="https://github.com/emmanpsd">Github</a></button>
-        <button className={styles.button} style={{ background: 'rgba(169, 116, 86, 1)' }}><img src="" /><a href="https://wh.npme2.repl.co/" target="_blank">Waffle House</a></button>
+        <button className={styles.button} style={{ background: 'rgba(234, 76, 137, 0.85)' }}><a href="https://dribbble.com/groovyemman">Dribbble Portfolio</a></button>
+        <button className={styles.button} style={{ background: 'rgba(43, 49, 55, 0.85)' }}><a href="https://github.com/emmanpsd">Github</a></button>
+        <button className={styles.button} style={{ background: 'rgba(169, 116, 86, 1)' }}><a href="https://wh.npme2.repl.co/" target="_blank"rel="noreferrer">Waffle House 🧇</a></button>
 
-        <button className={styles.button} style={{ background: 'rgba(164,164,243, 0.85)' }}><img src="" /><a href="mailto:emmanueldonelson@gmail.com">Book Me</a></button>
+        <button className={styles.button} style={{ background: 'rgba(164,164,243, 0.85)' }}><a href="mailto:emmanueldonelson@gmail.com">Book Me</a></button>
 
 
       </main>
